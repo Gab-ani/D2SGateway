@@ -10,4 +10,5 @@ Currently ready:
       - D2SHistoryFiller is a manager services used to organise the process of sending new data in the database.
 
 
-![изображение](https://user-images.githubusercontent.com/25298003/215287373-99269895-3c63-4ac6-9533-35d12c5feca9.png)
+![изображение](https://user-images.githubusercontent.com/25298003/215287639-e6bb26d6-2407-436a-9e36-9c135587cad6.png)
+
